@@ -14,7 +14,7 @@ This enterprise-level **Uber Operations Analytics Dashboard** provides a deep-di
 * **Purpose:** A clean corporate portal utilizing high-fidelity 3D rendering to guide executive stakeholders into distinct operational reporting tracks via customized navigational buttons.
 
 <p align="center">
-  <img src="Images/Home.jpg" width="90%" alt="Home View" />
+  <img src="Home.jpg" width="90%" alt="Home View" />
 </p>
 
 ### 2. Operational Overview (`Overview.jpg`)
@@ -22,7 +22,7 @@ This enterprise-level **Uber Operations Analytics Dashboard** provides a deep-di
 * **Granular Tracking:** Maps historical trends across a rolling calendar while isolating high-performing zones such as **Khandsa** (Top Pickup Location) and **Ashram** (Top Drop-off Location).
 
 <p align="center">
-  <img src="Images/Overview.jpg" width="90%" alt="Overview View" />
+  <img src="Overview.jpg" width="90%" alt="Overview View" />
 </p>
 
 ### 3. Fleet & Vehicle Utilization (`Vehicle.jpg`)
@@ -30,7 +30,7 @@ This enterprise-level **Uber Operations Analytics Dashboard** provides a deep-di
 * **Sparkline Analytics:** Leverages inline micro-trend charts to evaluate monthly booking consistency across distinct product variants.
 
 <p align="center">
-  <img src="Images/Vehicle.jpg" width="90%" alt="Vehicle View" />
+  <img src="Vehicle.jpg" width="90%" alt="Vehicle View" />
 </p>
 
 ### 4. Revenue Intelligence (`Revenue.jpg`)
@@ -38,7 +38,7 @@ This enterprise-level **Uber Operations Analytics Dashboard** provides a deep-di
 * **Customer Spending Concentration:** Features a Pareto-focused rank chart displaying top-spending customer tiers to identify high-value consumer groups.
 
 <p align="center">
-  <img src="Images/Revenue.jpg" width="90%" alt="Revenue View" />
+  <img src="Revenue.jpg" width="90%" alt="Revenue View" />
 </p>
 
 ### 5. Rider & Customer Deep Dive (`Rider.jpg`)
@@ -46,14 +46,14 @@ This enterprise-level **Uber Operations Analytics Dashboard** provides a deep-di
 * **Churn & Friction Mapping:** Systematically logs cancellation reasons, highlighting that **"Wrong Address Entry" (2,362 cases)** and **"Driver Not Moving" (2,335 cases)** represent major areas of operational friction.
 
 <p align="center">
-  <img src="Images/Rider.jpg" width="90%" alt="Rider View" />
+  <img src="Rider.jpg" width="90%" alt="Rider View" />
 </p>
 
 ### 6. Geospatial & Time-Slot Heatmap (`Location.jpg`)
 * **Temporal Demand Grid:** A matrix visual tracking ride density by week-day across staggered hour slots. Identifies peak platform congestion occurring during the **06:00 PM – 09:00 PM** time block, maximizing out at **4,798 bookings on Tuesdays**.
 
 <p align="center">
-  <img src="Images/Location.jpg" width="90%" alt="Location View" />
+  <img src="Location.jpg" width="90%" alt="Location View" />
 </p>
 
 ---
